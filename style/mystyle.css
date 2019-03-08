@@ -16,10 +16,10 @@ select{border-width:1px;_zoom:1;border-style:solid;padding-top:2px;font-size:12p
 a:link,a:visited{text-decoration:none;color:#333;}
 a:hover,a:active{text-decoration:underline;color:#f60;}
 .h1{
-	width: 1000px;
-	height: 800px;
+	width: 100vh;
+	height: 100vh;
 	margin: auto;
 	padding:inherit;
 	font-size: 72px;
-	line-height: 800px;
+	line-height: 100vh;
 }
