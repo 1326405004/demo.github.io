@@ -23,6 +23,7 @@ a:hover,a:active{text-decoration:underline;color:#f60;}
 	background-image: url(../Images/bg.jpg);
 	background-size:cover;
 	font-size: 72px;
+	font-weight: 100;
 	color: #E3E3E3;
 	line-height: 100vh;
 }
