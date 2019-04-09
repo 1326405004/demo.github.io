@@ -87,6 +87,7 @@ a{
 .panel{
     background:#fff;
     overflow: hidden;
+	background-color: #000000;
 }
 /*动画*/
 #nav1:checked ~ .scroll{
@@ -139,7 +140,6 @@ a{
 	justify-content:center;						/*主轴居中*/
 /*	align-items:center;							/*交叉轴居中*/
 
-	background-color: #000000;
 }
 .biaoti{
 	width: 100vw;
